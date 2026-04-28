@@ -1,0 +1,8 @@
+{
+  "name": "EcoScan: AI 분리배출 가이드",
+  "description": "카메라로 쓰레기를 촬영하여 올바른 분리배출 방법을 인공지능이 알려주는 친환경 가이드 앱입니다.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
